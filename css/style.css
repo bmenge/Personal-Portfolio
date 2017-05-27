@@ -1,3 +1,29 @@
-.jabroni {
-  color: yellow;
+.main-header-text {
+  text-align: center;
+  margin: 0;
+}
+
+.main-header-text h1 {
+  font-size: 4em;
+}
+
+.main-header-text h1,
+.main-header-text h2 {
+  margin: 0;
+  color: white;
+  font-family: "Oswald", sans-serif;
+}
+.main-header-text p {
+  margin: 3px 0;
+  color: #fff;
+}
+
+body {
+  background: rgba(78, 155, 171, 0.88);
+}
+
+.contact-cta {
+  text-decoration: none;
+  font-family: "oswald", sans-serif;
+
 }
