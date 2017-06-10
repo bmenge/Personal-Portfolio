@@ -1,3 +1,12 @@
+
+/* HEADER ---------------------------------------*/
+
+.main-header {
+  padding-top: 170px;
+  height: 100vh;
+  background-color: lightgrey;
+}
+
 .main-header-text {
   text-align: center;
   margin: 0;
@@ -17,13 +26,30 @@
   margin: 3px 0;
   color: #fff;
 }
+/* HEADER ---------------------------------------*/
+
+.nav-items {
+  text-align: right;
+}
+
+
+/* MAIN BODY ---------------------------------------*/
+
 
 body {
   background: rgba(78, 155, 171, 0.88);
+  margin: 0;
+}
+
+/* FOOTER ---------------------------------------*/
+
+footer {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 25px;
 }
 
 .contact-cta {
   text-decoration: none;
   font-family: "oswald", sans-serif;
-
 }
